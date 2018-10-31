@@ -1,0 +1,5 @@
+{
+    "name": "myHaskellProject",
+    "module_root": "MyHaskellProject",
+    "repo_name": "{{ cookiecutter.name }}"
+}
