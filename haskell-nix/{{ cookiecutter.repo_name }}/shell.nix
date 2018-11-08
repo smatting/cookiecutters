@@ -18,7 +18,7 @@ let
       fun = import defaultNix;
     in fun;
 
-  ghc = pkgs.haskell.packages.ghc822.ghcWithHoogle (mkFun ./package.yaml);
+  ghc = haskellPackages.ghcWithHoogle (mkFun ./package.yaml);
 
 in
 

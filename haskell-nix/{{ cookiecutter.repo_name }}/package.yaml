@@ -47,3 +47,6 @@ executables:
     {{ cookiecutter.repo_name }}:
         source-dirs: src/
         main: Main.hs
+        when:
+           - condition: os(darwin)
+             extra-libraries: iconv
