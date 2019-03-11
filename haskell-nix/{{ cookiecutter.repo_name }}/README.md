@@ -1,9 +1,16 @@
 ## How to develop
-`nix-shell`, `hpack` then
-* `cabal repl`
-* `ghcid`
-* `hoogle server --local`
+```
+hpack
+cabal2nix . > default.nix
+nix-shell
+```
+
+```
+cabal repl
+ghcid
+hoogle server --local
+```
 
 ## How to build
-`nix-build release.nix`
+`nix-build --attr myHaskellPackage release.nix`
 The build is then in the symlink `result`.
