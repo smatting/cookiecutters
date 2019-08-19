@@ -1,7 +1,7 @@
 let
-  nixpkgSrc = import ./nixpkgs-source.nix {};
+  nixpkgSrc = (import ./nix/sources.nix).nixpkgs;
 
-  compiler = "ghc822";
+  compiler = "ghc865";
   withHoogle = true;
 
   config = rec {
@@ -17,13 +17,13 @@ let
           myHaskellPackage =
             pkgs.haskell.lib.overrideCabal
               (pkgs.haskell.lib.justStaticExecutables
-                (self.callPackage ./default.nix { }))
-            (oldDerivation: {
-                buildTools = [ super.hpack ];
-                preConfigure = "hpack";
-                testToolDepends = [];
-                enableSharedExecutables = false;
-              });
+                (self.callPackage ./default.nix { })) # cabal2nix . > ./default.nix
+              (oldDerivation: {
+                  buildTools = [ super.hpack ];
+                  preConfigure = "hpack";
+                  testToolDepends = [];
+                  enableSharedExecutables = false;
+                });
 
           rdf4h = pkgs.haskell.lib.dontCheck super.rdf4h;
 

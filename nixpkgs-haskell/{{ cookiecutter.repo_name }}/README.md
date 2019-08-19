@@ -3,10 +3,12 @@
 hpack
 cabal2nix . > default.nix
 nix-shell
+cabal new-repl
 ```
 
 ```
-cabal repl
+nix-shell
+cabal new-repl
 ghcid
 hoogle server --local
 ```
