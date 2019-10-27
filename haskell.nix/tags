@@ -1,0 +1,675 @@
+!_TAG_FILE_SORTED	1	//
+AddI	myHaskellProject/lib/Day16.hs	34;"	C
+AddI	{{ cookiecutter.name }}/lib/Day16.hs	34;"	C
+AddR	myHaskellProject/lib/Day16.hs	33;"	C
+AddR	{{ cookiecutter.name }}/lib/Day16.hs	33;"	C
+Anchor	myHaskellProject/lib/Day6.hs	27;"	t
+Anchor	{{ cookiecutter.name }}/lib/Day6.hs	27;"	t
+Args	myHaskellProject/lib/Day16.hs	53;"	t
+Args	{{ cookiecutter.name }}/lib/Day16.hs	53;"	t
+BAnI	myHaskellProject/lib/Day16.hs	38;"	C
+BAnI	{{ cookiecutter.name }}/lib/Day16.hs	38;"	C
+BAnR	myHaskellProject/lib/Day16.hs	37;"	C
+BAnR	{{ cookiecutter.name }}/lib/Day16.hs	37;"	C
+BOrI	myHaskellProject/lib/Day16.hs	40;"	C
+BOrI	{{ cookiecutter.name }}/lib/Day16.hs	40;"	C
+BOrR	myHaskellProject/lib/Day16.hs	39;"	C
+BOrR	{{ cookiecutter.name }}/lib/Day16.hs	39;"	C
+BSlash	myHaskellProject/lib/Day13.hs	33;"	C
+BSlash	{{ cookiecutter.name }}/lib/Day13.hs	33;"	C
+BeginsShift	myHaskellProject/lib/Day4.hs	27;"	C
+BeginsShift	{{ cookiecutter.name }}/lib/Day4.hs	27;"	C
+Cart	myHaskellProject/lib/Day13.hs	62;"	t
+Cart	{{ cookiecutter.name }}/lib/Day13.hs	62;"	t
+Counts	myHaskellProject/lib/Day3.hs	50;"	t
+Counts	{{ cookiecutter.name }}/lib/Day3.hs	50;"	t
+Cross	myHaskellProject/lib/Day13.hs	35;"	C
+Cross	{{ cookiecutter.name }}/lib/Day13.hs	35;"	C
+Day1	myHaskellProject/lib/Day1.hs	1;"	m
+Day1	{{ cookiecutter.name }}/lib/Day1.hs	1;"	m
+Day10	myHaskellProject/lib/Day10.hs	3;"	m
+Day10	{{ cookiecutter.name }}/lib/Day10.hs	3;"	m
+Day11	myHaskellProject/lib/Day11.hs	1;"	m
+Day11	{{ cookiecutter.name }}/lib/Day11.hs	1;"	m
+Day12	myHaskellProject/lib/Day12.hs	3;"	m
+Day12	{{ cookiecutter.name }}/lib/Day12.hs	3;"	m
+Day13	myHaskellProject/lib/Day13.hs	5;"	m
+Day13	{{ cookiecutter.name }}/lib/Day13.hs	5;"	m
+Day16	myHaskellProject/lib/Day16.hs	7;"	m
+Day16	{{ cookiecutter.name }}/lib/Day16.hs	7;"	m
+Day2	myHaskellProject/lib/Day2.hs	1;"	m
+Day2	{{ cookiecutter.name }}/lib/Day2.hs	1;"	m
+Day3	myHaskellProject/lib/Day3.hs	3;"	m
+Day3	{{ cookiecutter.name }}/lib/Day3.hs	3;"	m
+Day4	myHaskellProject/lib/Day4.hs	3;"	m
+Day4	{{ cookiecutter.name }}/lib/Day4.hs	3;"	m
+Day5	myHaskellProject/lib/Day5.hs	3;"	m
+Day5	{{ cookiecutter.name }}/lib/Day5.hs	3;"	m
+Day6	myHaskellProject/lib/Day6.hs	3;"	m
+Day6	{{ cookiecutter.name }}/lib/Day6.hs	3;"	m
+Day7	myHaskellProject/lib/Day7.hs	4;"	m
+Day7	{{ cookiecutter.name }}/lib/Day7.hs	4;"	m
+Day8	myHaskellProject/lib/Day8.hs	1;"	m
+Day8	{{ cookiecutter.name }}/lib/Day8.hs	1;"	m
+Dimension	myHaskellProject/lib/Day3.hs	23;"	t
+Dimension	{{ cookiecutter.name }}/lib/Day3.hs	23;"	t
+Dir	myHaskellProject/lib/Day13.hs	49;"	t
+Dir	{{ cookiecutter.name }}/lib/Day13.hs	49;"	t
+E	myHaskellProject/lib/Day13.hs	51;"	C
+E	{{ cookiecutter.name }}/lib/Day13.hs	51;"	C
+EQIR	myHaskellProject/lib/Day16.hs	46;"	C
+EQIR	{{ cookiecutter.name }}/lib/Day16.hs	46;"	C
+EQRI	myHaskellProject/lib/Day16.hs	47;"	C
+EQRI	{{ cookiecutter.name }}/lib/Day16.hs	47;"	C
+EQRR	myHaskellProject/lib/Day16.hs	48;"	C
+EQRR	{{ cookiecutter.name }}/lib/Day16.hs	48;"	C
+Event	myHaskellProject/lib/Day4.hs	32;"	t
+Event	{{ cookiecutter.name }}/lib/Day4.hs	32;"	t
+EventData	myHaskellProject/lib/Day4.hs	26;"	t
+EventData	{{ cookiecutter.name }}/lib/Day4.hs	26;"	t
+FallsAsleep	myHaskellProject/lib/Day4.hs	29;"	C
+FallsAsleep	{{ cookiecutter.name }}/lib/Day4.hs	29;"	C
+GTIR	myHaskellProject/lib/Day16.hs	43;"	C
+GTIR	{{ cookiecutter.name }}/lib/Day16.hs	43;"	C
+GTRI	myHaskellProject/lib/Day16.hs	44;"	C
+GTRI	{{ cookiecutter.name }}/lib/Day16.hs	44;"	C
+GTRR	myHaskellProject/lib/Day16.hs	45;"	C
+GTRR	{{ cookiecutter.name }}/lib/Day16.hs	45;"	C
+Guard	myHaskellProject/lib/Day4.hs	23;"	t
+Guard	{{ cookiecutter.name }}/lib/Day4.hs	23;"	t
+Hor	myHaskellProject/lib/Day13.hs	27;"	C
+Hor	{{ cookiecutter.name }}/lib/Day13.hs	27;"	C
+Input	myHaskellProject/lib/Day12.hs	128;"	t
+Input	{{ cookiecutter.name }}/lib/Day12.hs	128;"	t
+IsPreFor	myHaskellProject/lib/Day7.hs	21;"	t
+IsPreFor	{{ cookiecutter.name }}/lib/Day7.hs	21;"	t
+LeftTurn	myHaskellProject/lib/Day13.hs	57;"	C
+LeftTurn	{{ cookiecutter.name }}/lib/Day13.hs	57;"	C
+LevelMap	myHaskellProject/lib/Day11.hs	36;"	t
+LevelMap	{{ cookiecutter.name }}/lib/Day11.hs	36;"	t
+Lib	myHaskellProject/lib/Lib.hs	1;"	m
+Lib	{{ cookiecutter.name }}/lib/Lib.hs	1;"	m
+MState	myHaskellProject/lib/Day16.hs	63;"	t
+MState	{{ cookiecutter.name }}/lib/Day16.hs	63;"	t
+Machine	myHaskellProject/lib/Day16.hs	74;"	t
+Machine	{{ cookiecutter.name }}/lib/Day16.hs	74;"	t
+Main	myHaskellProject/execs/aoc.hs	1;"	m
+Main	{{ cookiecutter.name }}/execs/{{cookiecutter.name}}.hs	1;"	m
+Metadata	myHaskellProject/lib/Day8.hs	18;"	t
+Metadata	{{ cookiecutter.name }}/lib/Day8.hs	18;"	t
+MulI	myHaskellProject/lib/Day16.hs	36;"	C
+MulI	{{ cookiecutter.name }}/lib/Day16.hs	36;"	C
+MulR	myHaskellProject/lib/Day16.hs	35;"	C
+MulR	{{ cookiecutter.name }}/lib/Day16.hs	35;"	C
+N	myHaskellProject/lib/Day13.hs	50;"	C
+N	{{ cookiecutter.name }}/lib/Day13.hs	50;"	C
+NoTurn	myHaskellProject/lib/Day13.hs	59;"	C
+NoTurn	{{ cookiecutter.name }}/lib/Day13.hs	59;"	C
+Node	myHaskellProject/lib/Day8.hs	20;"	t
+Node	{{ cookiecutter.name }}/lib/Day8.hs	20;"	t
+OpCode	myHaskellProject/lib/Day16.hs	32;"	t
+OpCode	{{ cookiecutter.name }}/lib/Day16.hs	32;"	t
+Parser	myHaskellProject/lib/Day10.hs	18;"	t
+Parser	myHaskellProject/lib/Day12.hs	97;"	t
+Parser	myHaskellProject/lib/Day16.hs	149;"	t
+Parser	myHaskellProject/lib/Day3.hs	18;"	t
+Parser	myHaskellProject/lib/Day4.hs	21;"	t
+Parser	myHaskellProject/lib/Day6.hs	25;"	t
+Parser	myHaskellProject/lib/Day7.hs	24;"	t
+Parser	myHaskellProject/lib/Day8.hs	16;"	t
+Parser	{{ cookiecutter.name }}/lib/Day10.hs	18;"	t
+Parser	{{ cookiecutter.name }}/lib/Day12.hs	97;"	t
+Parser	{{ cookiecutter.name }}/lib/Day16.hs	149;"	t
+Parser	{{ cookiecutter.name }}/lib/Day3.hs	18;"	t
+Parser	{{ cookiecutter.name }}/lib/Day4.hs	21;"	t
+Parser	{{ cookiecutter.name }}/lib/Day6.hs	25;"	t
+Parser	{{ cookiecutter.name }}/lib/Day7.hs	24;"	t
+Parser	{{ cookiecutter.name }}/lib/Day8.hs	16;"	t
+Part1	myHaskellProject/lib/Lib.hs	7;"	C
+Part2	myHaskellProject/lib/Lib.hs	7;"	C
+Patch	myHaskellProject/lib/Day3.hs	26;"	t
+Patch	{{ cookiecutter.name }}/lib/Day3.hs	26;"	t
+Plants	myHaskellProject/lib/Day12.hs	24;"	t
+Plants	{{ cookiecutter.name }}/lib/Day12.hs	24;"	t
+Point	myHaskellProject/lib/Day3.hs	20;"	t
+Point	myHaskellProject/lib/Day6.hs	22;"	t
+Point	{{ cookiecutter.name }}/lib/Day3.hs	20;"	t
+Point	{{ cookiecutter.name }}/lib/Day6.hs	22;"	t
+Pos	myHaskellProject/lib/Day10.hs	57;"	t
+Pos	myHaskellProject/lib/Day13.hs	38;"	t
+Pos	{{ cookiecutter.name }}/lib/Day10.hs	57;"	t
+Pos	{{ cookiecutter.name }}/lib/Day13.hs	38;"	t
+PreMap	myHaskellProject/lib/Day7.hs	40;"	t
+PreMap	{{ cookiecutter.name }}/lib/Day7.hs	40;"	t
+PuzzlePart	myHaskellProject/lib/Lib.hs	7;"	t
+Rectangle	myHaskellProject/lib/Day6.hs	68;"	t
+Rectangle	{{ cookiecutter.name }}/lib/Day6.hs	68;"	t
+RightTurn	myHaskellProject/lib/Day13.hs	58;"	C
+RightTurn	{{ cookiecutter.name }}/lib/Day13.hs	58;"	C
+Rule	myHaskellProject/lib/Day12.hs	74;"	t
+Rule	{{ cookiecutter.name }}/lib/Day12.hs	74;"	t
+S	myHaskellProject/lib/Day13.hs	52;"	C
+S	{{ cookiecutter.name }}/lib/Day13.hs	52;"	C
+Sample	myHaskellProject/lib/Day16.hs	179;"	t
+Sample	{{ cookiecutter.name }}/lib/Day16.hs	179;"	t
+SetI	myHaskellProject/lib/Day16.hs	42;"	C
+SetI	{{ cookiecutter.name }}/lib/Day16.hs	42;"	C
+SetR	myHaskellProject/lib/Day16.hs	41;"	C
+SetR	{{ cookiecutter.name }}/lib/Day16.hs	41;"	C
+Slash	myHaskellProject/lib/Day13.hs	31;"	C
+Slash	{{ cookiecutter.name }}/lib/Day13.hs	31;"	C
+State	myHaskellProject/lib/Day13.hs	157;"	t
+State	{{ cookiecutter.name }}/lib/Day13.hs	157;"	t
+TrackElt	myHaskellProject/lib/Day13.hs	25;"	t
+TrackElt	{{ cookiecutter.name }}/lib/Day13.hs	25;"	t
+TrackMap	myHaskellProject/lib/Day13.hs	67;"	t
+TrackMap	{{ cookiecutter.name }}/lib/Day13.hs	67;"	t
+Turn	myHaskellProject/lib/Day13.hs	56;"	t
+Turn	{{ cookiecutter.name }}/lib/Day13.hs	56;"	t
+Vel	myHaskellProject/lib/Day10.hs	60;"	t
+Vel	{{ cookiecutter.name }}/lib/Day10.hs	60;"	t
+Vert	myHaskellProject/lib/Day13.hs	29;"	C
+Vert	{{ cookiecutter.name }}/lib/Day13.hs	29;"	C
+W	myHaskellProject/lib/Day13.hs	53;"	C
+W	{{ cookiecutter.name }}/lib/Day13.hs	53;"	C
+WakesUp	myHaskellProject/lib/Day4.hs	28;"	C
+WakesUp	{{ cookiecutter.name }}/lib/Day4.hs	28;"	C
+Workers	myHaskellProject/lib/Day7.hs	70;"	t
+Workers	{{ cookiecutter.name }}/lib/Day7.hs	70;"	t
+_a	myHaskellProject/lib/Day16.hs	55;"	f
+_a	{{ cookiecutter.name }}/lib/Day16.hs	55;"	f
+_after	myHaskellProject/lib/Day16.hs	183;"	f
+_after	{{ cookiecutter.name }}/lib/Day16.hs	183;"	f
+_anchorId	myHaskellProject/lib/Day6.hs	27;"	f
+_anchorId	{{ cookiecutter.name }}/lib/Day6.hs	27;"	f
+_anchorPoint	myHaskellProject/lib/Day6.hs	27;"	f
+_anchorPoint	{{ cookiecutter.name }}/lib/Day6.hs	27;"	f
+_b	myHaskellProject/lib/Day16.hs	56;"	f
+_b	{{ cookiecutter.name }}/lib/Day16.hs	56;"	f
+_before	myHaskellProject/lib/Day16.hs	182;"	f
+_before	{{ cookiecutter.name }}/lib/Day16.hs	182;"	f
+_c	myHaskellProject/lib/Day16.hs	57;"	f
+_c	{{ cookiecutter.name }}/lib/Day16.hs	57;"	f
+_cartDir	myHaskellProject/lib/Day13.hs	62;"	f
+_cartDir	{{ cookiecutter.name }}/lib/Day13.hs	62;"	f
+_cartPos	myHaskellProject/lib/Day13.hs	62;"	f
+_cartPos	{{ cookiecutter.name }}/lib/Day13.hs	62;"	f
+_cartTurn	myHaskellProject/lib/Day13.hs	62;"	f
+_cartTurn	{{ cookiecutter.name }}/lib/Day13.hs	62;"	f
+_eventData	myHaskellProject/lib/Day4.hs	33;"	f
+_eventData	{{ cookiecutter.name }}/lib/Day4.hs	33;"	f
+_eventTime	myHaskellProject/lib/Day4.hs	33;"	f
+_eventTime	{{ cookiecutter.name }}/lib/Day4.hs	33;"	f
+_operation	myHaskellProject/lib/Day16.hs	181;"	f
+_operation	{{ cookiecutter.name }}/lib/Day16.hs	181;"	f
+_plantsFirstIndex	myHaskellProject/lib/Day12.hs	26;"	f
+_plantsFirstIndex	{{ cookiecutter.name }}/lib/Day12.hs	26;"	f
+_plantsSeq	myHaskellProject/lib/Day12.hs	27;"	f
+_plantsSeq	{{ cookiecutter.name }}/lib/Day12.hs	27;"	f
+_s0	myHaskellProject/lib/Day16.hs	65;"	f
+_s0	{{ cookiecutter.name }}/lib/Day16.hs	65;"	f
+_s1	myHaskellProject/lib/Day16.hs	66;"	f
+_s1	{{ cookiecutter.name }}/lib/Day16.hs	66;"	f
+_s2	myHaskellProject/lib/Day16.hs	67;"	f
+_s2	{{ cookiecutter.name }}/lib/Day16.hs	67;"	f
+_s3	myHaskellProject/lib/Day16.hs	68;"	f
+_s3	{{ cookiecutter.name }}/lib/Day16.hs	68;"	f
+_stateCarts	myHaskellProject/lib/Day13.hs	161;"	f
+_stateCarts	{{ cookiecutter.name }}/lib/Day13.hs	161;"	f
+_stateCrash	myHaskellProject/lib/Day13.hs	162;"	f
+_stateCrash	{{ cookiecutter.name }}/lib/Day13.hs	162;"	f
+_stateMap	myHaskellProject/lib/Day13.hs	160;"	f
+_stateMap	{{ cookiecutter.name }}/lib/Day13.hs	160;"	f
+_stateTm	myHaskellProject/lib/Day13.hs	159;"	f
+_stateTm	{{ cookiecutter.name }}/lib/Day13.hs	159;"	f
+_x	myHaskellProject/lib/Day13.hs	38;"	f
+_x	{{ cookiecutter.name }}/lib/Day13.hs	38;"	f
+_y	myHaskellProject/lib/Day13.hs	38;"	f
+_y	{{ cookiecutter.name }}/lib/Day13.hs	38;"	f
+allOpCodes	myHaskellProject/lib/Day16.hs	51;"	f
+allOpCodes	{{ cookiecutter.name }}/lib/Day16.hs	51;"	f
+anchorMapToPoints	myHaskellProject/lib/Day6.hs	107;"	f
+anchorMapToPoints	{{ cookiecutter.name }}/lib/Day6.hs	107;"	f
+applyRule	myHaskellProject/lib/Day12.hs	76;"	f
+applyRule	{{ cookiecutter.name }}/lib/Day12.hs	76;"	f
+binaryToNum	myHaskellProject/lib/Day12.hs	50;"	f
+binaryToNum	{{ cookiecutter.name }}/lib/Day12.hs	50;"	f
+bla	myHaskellProject/lib/Day16.hs	261;"	f
+bla	{{ cookiecutter.name }}/lib/Day16.hs	261;"	f
+boolToInt	myHaskellProject/lib/Day16.hs	111;"	f
+boolToInt	{{ cookiecutter.name }}/lib/Day16.hs	111;"	f
+boundingBox	myHaskellProject/lib/Day6.hs	72;"	f
+boundingBox	{{ cookiecutter.name }}/lib/Day6.hs	72;"	f
+boxSum	myHaskellProject/lib/Day11.hs	45;"	f
+boxSum	{{ cookiecutter.name }}/lib/Day11.hs	45;"	f
+buildAnchorMap	myHaskellProject/lib/Day6.hs	60;"	f
+buildAnchorMap	{{ cookiecutter.name }}/lib/Day6.hs	60;"	f
+buildTable	myHaskellProject/lib/Day16.hs	229;"	f
+buildTable	{{ cookiecutter.name }}/lib/Day16.hs	229;"	f
+closestAnchor	myHaskellProject/lib/Day6.hs	57;"	f
+closestAnchor	{{ cookiecutter.name }}/lib/Day6.hs	57;"	f
+cmpir	myHaskellProject/lib/Day16.hs	115;"	f
+cmpir	{{ cookiecutter.name }}/lib/Day16.hs	115;"	f
+cmpri	myHaskellProject/lib/Day16.hs	120;"	f
+cmpri	{{ cookiecutter.name }}/lib/Day16.hs	120;"	f
+cmprr	myHaskellProject/lib/Day16.hs	125;"	f
+cmprr	{{ cookiecutter.name }}/lib/Day16.hs	125;"	f
+code	myHaskellProject/lib/Day4.hs	102;"	f
+code	{{ cookiecutter.name }}/lib/Day4.hs	102;"	f
+coordChars	myHaskellProject/lib/Day13.hs	89;"	f
+coordChars	{{ cookiecutter.name }}/lib/Day13.hs	89;"	f
+countPatch	myHaskellProject/lib/Day3.hs	62;"	f
+countPatch	{{ cookiecutter.name }}/lib/Day3.hs	62;"	f
+countPatches	myHaskellProject/lib/Day3.hs	65;"	f
+countPatches	{{ cookiecutter.name }}/lib/Day3.hs	65;"	f
+countPoint	myHaskellProject/lib/Day3.hs	58;"	f
+countPoint	{{ cookiecutter.name }}/lib/Day3.hs	58;"	f
+countSol1	myHaskellProject/lib/Day16.hs	226;"	f
+countSol1	{{ cookiecutter.name }}/lib/Day16.hs	226;"	f
+d1	myHaskellProject/lib/Day11.hs	59;"	f
+d1	{{ cookiecutter.name }}/lib/Day11.hs	59;"	f
+d2	myHaskellProject/lib/Day11.hs	61;"	f
+d2	{{ cookiecutter.name }}/lib/Day11.hs	61;"	f
+d3	myHaskellProject/lib/Day11.hs	63;"	f
+d3	{{ cookiecutter.name }}/lib/Day11.hs	63;"	f
+d3'	myHaskellProject/lib/Day11.hs	65;"	f
+d3'	{{ cookiecutter.name }}/lib/Day11.hs	65;"	f
+debugPlants	myHaskellProject/lib/Day12.hs	87;"	f
+debugPlants	{{ cookiecutter.name }}/lib/Day12.hs	87;"	f
+distances	myHaskellProject/lib/Day6.hs	54;"	f
+distances	{{ cookiecutter.name }}/lib/Day6.hs	54;"	f
+dropLetters	myHaskellProject/lib/Day2.hs	31;"	f
+dropLetters	{{ cookiecutter.name }}/lib/Day2.hs	31;"	f
+dummyInput	myHaskellProject/lib/Day7.hs	129;"	f
+dummyInput	{{ cookiecutter.name }}/lib/Day7.hs	129;"	f
+dummyPart1	myHaskellProject/lib/Day6.hs	143;"	f
+dummyPart1	{{ cookiecutter.name }}/lib/Day6.hs	143;"	f
+dummyPart2	myHaskellProject/lib/Day6.hs	145;"	f
+dummyPart2	{{ cookiecutter.name }}/lib/Day6.hs	145;"	f
+dummySolution2	myHaskellProject/lib/Day7.hs	144;"	f
+dummySolution2	{{ cookiecutter.name }}/lib/Day7.hs	144;"	f
+encodeSpots	myHaskellProject/lib/Day12.hs	64;"	f
+encodeSpots	{{ cookiecutter.name }}/lib/Day12.hs	64;"	f
+encoding	myHaskellProject/lib/Day12.hs	54;"	f
+encoding	{{ cookiecutter.name }}/lib/Day12.hs	54;"	f
+encodingUnsafe	myHaskellProject/lib/Day12.hs	60;"	f
+encodingUnsafe	{{ cookiecutter.name }}/lib/Day12.hs	60;"	f
+enumeratePoints	myHaskellProject/lib/Day6.hs	97;"	f
+enumeratePoints	{{ cookiecutter.name }}/lib/Day6.hs	97;"	f
+equating	myHaskellProject/lib/Day4.hs	72;"	f
+equating	myHaskellProject/lib/Day6.hs	41;"	f
+equating	{{ cookiecutter.name }}/lib/Day4.hs	72;"	f
+equating	{{ cookiecutter.name }}/lib/Day6.hs	41;"	f
+evenDataParser	myHaskellProject/lib/Day4.hs	52;"	f
+evenDataParser	{{ cookiecutter.name }}/lib/Day4.hs	52;"	f
+eventParser	myHaskellProject/lib/Day4.hs	58;"	f
+eventParser	{{ cookiecutter.name }}/lib/Day4.hs	58;"	f
+eventsParser	myHaskellProject/lib/Day4.hs	62;"	f
+eventsParser	{{ cookiecutter.name }}/lib/Day4.hs	62;"	f
+exampleInput	myHaskellProject/lib/Day12.hs	99;"	f
+exampleInput	{{ cookiecutter.name }}/lib/Day12.hs	99;"	f
+examplePlants	myHaskellProject/lib/Day12.hs	161;"	f
+examplePlants	{{ cookiecutter.name }}/lib/Day12.hs	161;"	f
+f	myHaskellProject/lib/Day16.hs	271;"	f
+f	{{ cookiecutter.name }}/lib/Day16.hs	271;"	f
+filteredPolymers	myHaskellProject/lib/Day5.hs	29;"	f
+filteredPolymers	{{ cookiecutter.name }}/lib/Day5.hs	29;"	f
+findPath	myHaskellProject/lib/Day7.hs	53;"	f
+findPath	{{ cookiecutter.name }}/lib/Day7.hs	53;"	f
+firstRepeat	myHaskellProject/lib/Day1.hs	11;"	f
+firstRepeat	myHaskellProject/lib/Day2.hs	23;"	f
+firstRepeat	{{ cookiecutter.name }}/lib/Day1.hs	11;"	f
+firstRepeat	{{ cookiecutter.name }}/lib/Day2.hs	23;"	f
+forceParse	myHaskellProject/lib/Day12.hs	157;"	f
+forceParse	myHaskellProject/lib/Day16.hs	202;"	f
+forceParse	{{ cookiecutter.name }}/lib/Day12.hs	157;"	f
+forceParse	{{ cookiecutter.name }}/lib/Day16.hs	202;"	f
+fromClues	myHaskellProject/lib/Day16.hs	295;"	f
+fromClues	{{ cookiecutter.name }}/lib/Day16.hs	295;"	f
+genLevelMap	myHaskellProject/lib/Day11.hs	47;"	f
+genLevelMap	{{ cookiecutter.name }}/lib/Day11.hs	47;"	f
+genPreMap	myHaskellProject/lib/Day7.hs	42;"	f
+genPreMap	{{ cookiecutter.name }}/lib/Day7.hs	42;"	f
+get	myHaskellProject/lib/Day11.hs	38;"	f
+get	{{ cookiecutter.name }}/lib/Day11.hs	38;"	f
+getBox	myHaskellProject/lib/Day11.hs	41;"	f
+getBox	{{ cookiecutter.name }}/lib/Day11.hs	41;"	f
+grid	myHaskellProject/lib/Day11.hs	27;"	f
+grid	{{ cookiecutter.name }}/lib/Day11.hs	27;"	f
+guardBlock	myHaskellProject/lib/Day4.hs	85;"	f
+guardBlock	{{ cookiecutter.name }}/lib/Day4.hs	85;"	f
+hasCapacity	myHaskellProject/lib/Day7.hs	78;"	f
+hasCapacity	{{ cookiecutter.name }}/lib/Day7.hs	78;"	f
+haskell	{{ cookiecutter.name }}/lib/Lib.hs	3;"	f
+height	myHaskellProject/lib/Day10.hs	95;"	f
+height	{{ cookiecutter.name }}/lib/Day10.hs	95;"	f
+hunDigit	myHaskellProject/lib/Day11.hs	13;"	f
+hunDigit	{{ cookiecutter.name }}/lib/Day11.hs	13;"	f
+index	myHaskellProject/lib/Day11.hs	33;"	f
+index	{{ cookiecutter.name }}/lib/Day11.hs	33;"	f
+indexCarts	myHaskellProject/lib/Day13.hs	154;"	f
+indexCarts	{{ cookiecutter.name }}/lib/Day13.hs	154;"	f
+infer	myHaskellProject/lib/Day16.hs	237;"	f
+infer	{{ cookiecutter.name }}/lib/Day16.hs	237;"	f
+initState	myHaskellProject/lib/Day13.hs	165;"	f
+initState	myHaskellProject/lib/Day16.hs	76;"	f
+initState	{{ cookiecutter.name }}/lib/Day13.hs	165;"	f
+initState	{{ cookiecutter.name }}/lib/Day16.hs	76;"	f
+initWorkers	myHaskellProject/lib/Day7.hs	76;"	f
+initWorkers	{{ cookiecutter.name }}/lib/Day7.hs	76;"	f
+input1	myHaskellProject/lib/Day13.hs	253;"	f
+input1	{{ cookiecutter.name }}/lib/Day13.hs	253;"	f
+insertJob	myHaskellProject/lib/Day7.hs	85;"	f
+insertJob	{{ cookiecutter.name }}/lib/Day7.hs	85;"	f
+insertMost	myHaskellProject/lib/Day7.hs	89;"	f
+insertMost	{{ cookiecutter.name }}/lib/Day7.hs	89;"	f
+invertMap	myHaskellProject/lib/Day6.hs	101;"	f
+invertMap	{{ cookiecutter.name }}/lib/Day6.hs	101;"	f
+iolution	myHaskellProject/lib/Day3.hs	80;"	f
+iolution	{{ cookiecutter.name }}/lib/Day3.hs	80;"	f
+isAvailable	myHaskellProject/lib/Day7.hs	63;"	f
+isAvailable	{{ cookiecutter.name }}/lib/Day7.hs	63;"	f
+isBeginsShift	myHaskellProject/lib/Day4.hs	78;"	f
+isBeginsShift	{{ cookiecutter.name }}/lib/Day4.hs	78;"	f
+iterateRule	myHaskellProject/lib/Day12.hs	163;"	f
+iterateRule	{{ cookiecutter.name }}/lib/Day12.hs	163;"	f
+lexeme	myHaskellProject/lib/Day10.hs	63;"	f
+lexeme	myHaskellProject/lib/Day12.hs	130;"	f
+lexeme	myHaskellProject/lib/Day8.hs	26;"	f
+lexeme	{{ cookiecutter.name }}/lib/Day10.hs	63;"	f
+lexeme	{{ cookiecutter.name }}/lib/Day12.hs	130;"	f
+lexeme	{{ cookiecutter.name }}/lib/Day8.hs	26;"	f
+lx	myHaskellProject/lib/Day16.hs	176;"	f
+lx	{{ cookiecutter.name }}/lib/Day16.hs	176;"	f
+main	myHaskellProject/execs/aoc.hs	38;"	f
+main	{{ cookiecutter.name }}/execs/{{cookiecutter.name}}.hs	5;"	f
+main1	myHaskellProject/lib/Day8.hs	68;"	f
+main1	{{ cookiecutter.name }}/lib/Day8.hs	68;"	f
+main2	myHaskellProject/lib/Day8.hs	70;"	f
+main2	{{ cookiecutter.name }}/lib/Day8.hs	70;"	f
+manhattan	myHaskellProject/lib/Day6.hs	38;"	f
+manhattan	{{ cookiecutter.name }}/lib/Day6.hs	38;"	f
+mapSize	myHaskellProject/lib/Day13.hs	95;"	f
+mapSize	{{ cookiecutter.name }}/lib/Day13.hs	95;"	f
+minute	myHaskellProject/lib/Day4.hs	89;"	f
+minute	{{ cookiecutter.name }}/lib/Day4.hs	89;"	f
+mk	myHaskellProject/execs/aoc.hs	20;"	f
+mkPlants	myHaskellProject/lib/Day12.hs	40;"	f
+mkPlants	{{ cookiecutter.name }}/lib/Day12.hs	40;"	f
+move	myHaskellProject/lib/Day10.hs	89;"	f
+move	{{ cookiecutter.name }}/lib/Day10.hs	89;"	f
+moveAll	myHaskellProject/lib/Day10.hs	92;"	f
+moveAll	{{ cookiecutter.name }}/lib/Day10.hs	92;"	f
+moveCart	myHaskellProject/lib/Day13.hs	124;"	f
+moveCart	{{ cookiecutter.name }}/lib/Day13.hs	124;"	f
+moveChecked	myHaskellProject/lib/Day13.hs	142;"	f
+moveChecked	{{ cookiecutter.name }}/lib/Day13.hs	142;"	f
+moveInDir	myHaskellProject/lib/Day13.hs	107;"	f
+moveInDir	{{ cookiecutter.name }}/lib/Day13.hs	107;"	f
+moveUntil	myHaskellProject/lib/Day10.hs	114;"	f
+moveUntil	{{ cookiecutter.name }}/lib/Day10.hs	114;"	f
+nextTurn	myHaskellProject/lib/Day13.hs	102;"	f
+nextTurn	{{ cookiecutter.name }}/lib/Day13.hs	102;"	f
+nodeValue	myHaskellProject/lib/Day8.hs	47;"	f
+nodeValue	{{ cookiecutter.name }}/lib/Day8.hs	47;"	f
+normalize	myHaskellProject/lib/Day10.hs	111;"	f
+normalize	{{ cookiecutter.name }}/lib/Day10.hs	111;"	f
+normalizer	myHaskellProject/lib/Day10.hs	105;"	f
+normalizer	{{ cookiecutter.name }}/lib/Day10.hs	105;"	f
+op	myHaskellProject/lib/Day16.hs	131;"	f
+op	{{ cookiecutter.name }}/lib/Day16.hs	131;"	f
+opri	myHaskellProject/lib/Day16.hs	100;"	f
+opri	{{ cookiecutter.name }}/lib/Day16.hs	100;"	f
+oprr	myHaskellProject/lib/Day16.hs	94;"	f
+oprr	{{ cookiecutter.name }}/lib/Day16.hs	94;"	f
+pad	myHaskellProject/lib/Day12.hs	45;"	f
+pad	{{ cookiecutter.name }}/lib/Day12.hs	45;"	f
+parallelTime	myHaskellProject/lib/Day7.hs	106;"	f
+parallelTime	{{ cookiecutter.name }}/lib/Day7.hs	106;"	f
+parse	myHaskellProject/lib/Day11.hs	69;"	f
+parse	{{ cookiecutter.name }}/lib/Day11.hs	69;"	f
+parseArgs	myHaskellProject/lib/Day16.hs	163;"	f
+parseArgs	{{ cookiecutter.name }}/lib/Day16.hs	163;"	f
+parseBit	myHaskellProject/lib/Day12.hs	120;"	f
+parseBit	{{ cookiecutter.name }}/lib/Day12.hs	120;"	f
+parseBits	myHaskellProject/lib/Day12.hs	125;"	f
+parseBits	{{ cookiecutter.name }}/lib/Day12.hs	125;"	f
+parseForce	myHaskellProject/lib/Day10.hs	143;"	f
+parseForce	myHaskellProject/lib/Day13.hs	246;"	f
+parseForce	{{ cookiecutter.name }}/lib/Day10.hs	143;"	f
+parseForce	{{ cookiecutter.name }}/lib/Day13.hs	246;"	f
+parseGame	myHaskellProject/lib/Day13.hs	69;"	f
+parseGame	{{ cookiecutter.name }}/lib/Day13.hs	69;"	f
+parseInput	myHaskellProject/lib/Day1.hs	19;"	f
+parseInput	myHaskellProject/lib/Day12.hs	140;"	f
+parseInput	myHaskellProject/lib/Day16.hs	198;"	f
+parseInput	myHaskellProject/lib/Day2.hs	14;"	f
+parseInput	myHaskellProject/lib/Day6.hs	34;"	f
+parseInput	myHaskellProject/lib/Day7.hs	35;"	f
+parseInput	myHaskellProject/lib/Day8.hs	37;"	f
+parseInput	{{ cookiecutter.name }}/lib/Day1.hs	19;"	f
+parseInput	{{ cookiecutter.name }}/lib/Day12.hs	140;"	f
+parseInput	{{ cookiecutter.name }}/lib/Day16.hs	198;"	f
+parseInput	{{ cookiecutter.name }}/lib/Day2.hs	14;"	f
+parseInput	{{ cookiecutter.name }}/lib/Day6.hs	34;"	f
+parseInput	{{ cookiecutter.name }}/lib/Day7.hs	35;"	f
+parseInput	{{ cookiecutter.name }}/lib/Day8.hs	37;"	f
+parseInt	myHaskellProject/lib/Day8.hs	23;"	f
+parseInt	{{ cookiecutter.name }}/lib/Day8.hs	23;"	f
+parseLine	myHaskellProject/lib/Day10.hs	75;"	f
+parseLine	{{ cookiecutter.name }}/lib/Day10.hs	75;"	f
+parseMState	myHaskellProject/lib/Day16.hs	151;"	f
+parseMState	{{ cookiecutter.name }}/lib/Day16.hs	151;"	f
+parseNode	myHaskellProject/lib/Day8.hs	29;"	f
+parseNode	{{ cookiecutter.name }}/lib/Day8.hs	29;"	f
+parseOperation	myHaskellProject/lib/Day16.hs	170;"	f
+parseOperation	{{ cookiecutter.name }}/lib/Day16.hs	170;"	f
+parsePatch	myHaskellProject/lib/Day3.hs	30;"	f
+parsePatch	{{ cookiecutter.name }}/lib/Day3.hs	30;"	f
+parsePatches	myHaskellProject/lib/Day3.hs	40;"	f
+parsePatches	{{ cookiecutter.name }}/lib/Day3.hs	40;"	f
+parseProblem	myHaskellProject/lib/Day10.hs	83;"	f
+parseProblem	myHaskellProject/lib/Day12.hs	150;"	f
+parseProblem	{{ cookiecutter.name }}/lib/Day10.hs	83;"	f
+parseProblem	{{ cookiecutter.name }}/lib/Day12.hs	150;"	f
+parseProgram	myHaskellProject/execs/aoc.hs	26;"	f
+parseRuleElt	myHaskellProject/lib/Day12.hs	133;"	f
+parseRuleElt	{{ cookiecutter.name }}/lib/Day12.hs	133;"	f
+parseSample	myHaskellProject/lib/Day16.hs	189;"	f
+parseSample	{{ cookiecutter.name }}/lib/Day16.hs	189;"	f
+parseTuple	myHaskellProject/lib/Day10.hs	66;"	f
+parseTuple	{{ cookiecutter.name }}/lib/Day10.hs	66;"	f
+patchIsUnique	myHaskellProject/lib/Day3.hs	85;"	f
+patchIsUnique	{{ cookiecutter.name }}/lib/Day3.hs	85;"	f
+pmap	myHaskellProject/lib/Day11.hs	54;"	f
+pmap	{{ cookiecutter.name }}/lib/Day11.hs	54;"	f
+pointParser	myHaskellProject/lib/Day6.hs	30;"	f
+pointParser	{{ cookiecutter.name }}/lib/Day6.hs	30;"	f
+points	myHaskellProject/lib/Day3.hs	52;"	f
+points	{{ cookiecutter.name }}/lib/Day3.hs	52;"	f
+possibleCodes	myHaskellProject/lib/Day16.hs	219;"	f
+possibleCodes	{{ cookiecutter.name }}/lib/Day16.hs	219;"	f
+powerLevel	myHaskellProject/lib/Day11.hs	16;"	f
+powerLevel	{{ cookiecutter.name }}/lib/Day11.hs	16;"	f
+preParser	myHaskellProject/lib/Day7.hs	26;"	f
+preParser	{{ cookiecutter.name }}/lib/Day7.hs	26;"	f
+puzzlePartParser	myHaskellProject/execs/aoc.hs	16;"	f
+rectanglePoints	myHaskellProject/lib/Day6.hs	85;"	f
+rectanglePoints	{{ cookiecutter.name }}/lib/Day6.hs	85;"	f
+red	myHaskellProject/lib/Day5.hs	11;"	f
+red	{{ cookiecutter.name }}/lib/Day5.hs	11;"	f
+reduce	myHaskellProject/lib/Day5.hs	18;"	f
+reduce	{{ cookiecutter.name }}/lib/Day5.hs	18;"	f
+register	myHaskellProject/lib/Day16.hs	80;"	f
+register	{{ cookiecutter.name }}/lib/Day16.hs	80;"	f
+removeDep	myHaskellProject/lib/Day7.hs	67;"	f
+removeDep	{{ cookiecutter.name }}/lib/Day7.hs	67;"	f
+removeInfinite	myHaskellProject/lib/Day6.hs	89;"	f
+removeInfinite	{{ cookiecutter.name }}/lib/Day6.hs	89;"	f
+render	myHaskellProject/lib/Day10.hs	124;"	f
+render	{{ cookiecutter.name }}/lib/Day10.hs	124;"	f
+renderBinary	myHaskellProject/lib/Day12.hs	90;"	f
+renderBinary	{{ cookiecutter.name }}/lib/Day12.hs	90;"	f
+renderGame	myHaskellProject/lib/Day13.hs	178;"	f
+renderGame	{{ cookiecutter.name }}/lib/Day13.hs	178;"	f
+renderPlants	myHaskellProject/lib/Day12.hs	83;"	f
+renderPlants	{{ cookiecutter.name }}/lib/Day12.hs	83;"	f
+ruleFromMap	myHaskellProject/lib/Day12.hs	147;"	f
+ruleFromMap	{{ cookiecutter.name }}/lib/Day12.hs	147;"	f
+runMachine	myHaskellProject/lib/Day16.hs	206;"	f
+runMachine	{{ cookiecutter.name }}/lib/Day16.hs	206;"	f
+runPuzzle	myHaskellProject/lib/Lib.hs	13;"	f
+runSolver	myHaskellProject/lib/Lib.hs	9;"	f
+s	myHaskellProject/lib/Day6.hs	147;"	f
+s	{{ cookiecutter.name }}/lib/Day6.hs	147;"	f
+s1	myHaskellProject/lib/Day13.hs	242;"	f
+s1	{{ cookiecutter.name }}/lib/Day13.hs	242;"	f
+sample	myHaskellProject/lib/Day10.hs	87;"	f
+sample	myHaskellProject/lib/Day13.hs	240;"	f
+sample	myHaskellProject/lib/Day8.hs	56;"	f
+sample	{{ cookiecutter.name }}/lib/Day10.hs	87;"	f
+sample	{{ cookiecutter.name }}/lib/Day13.hs	240;"	f
+sample	{{ cookiecutter.name }}/lib/Day8.hs	56;"	f
+sampleInput	myHaskellProject/lib/Day10.hs	20;"	f
+sampleInput	myHaskellProject/lib/Day13.hs	228;"	f
+sampleInput	{{ cookiecutter.name }}/lib/Day10.hs	20;"	f
+sampleInput	{{ cookiecutter.name }}/lib/Day13.hs	228;"	f
+sampleSolution1	myHaskellProject/lib/Day7.hs	142;"	f
+sampleSolution1	myHaskellProject/lib/Day8.hs	58;"	f
+sampleSolution1	{{ cookiecutter.name }}/lib/Day7.hs	142;"	f
+sampleSolution1	{{ cookiecutter.name }}/lib/Day8.hs	58;"	f
+sampleSolution2	myHaskellProject/lib/Day8.hs	60;"	f
+sampleSolution2	{{ cookiecutter.name }}/lib/Day8.hs	60;"	f
+score	myHaskellProject/lib/Day12.hs	167;"	f
+score	{{ cookiecutter.name }}/lib/Day12.hs	167;"	f
+secs	myHaskellProject/lib/Day7.hs	82;"	f
+secs	{{ cookiecutter.name }}/lib/Day7.hs	82;"	f
+setRegister	myHaskellProject/lib/Day16.hs	87;"	f
+setRegister	{{ cookiecutter.name }}/lib/Day16.hs	87;"	f
+seti	myHaskellProject/lib/Day16.hs	108;"	f
+seti	{{ cookiecutter.name }}/lib/Day16.hs	108;"	f
+setr	myHaskellProject/lib/Day16.hs	105;"	f
+setr	{{ cookiecutter.name }}/lib/Day16.hs	105;"	f
+show'	myHaskellProject/lib/Day6.hs	94;"	f
+show'	{{ cookiecutter.name }}/lib/Day6.hs	94;"	f
+showField	myHaskellProject/lib/Day6.hs	110;"	f
+showField	{{ cookiecutter.name }}/lib/Day6.hs	110;"	f
+showText	myHaskellProject/lib/Lib.hs	16;"	f
+simulate	myHaskellProject/lib/Day13.hs	216;"	f
+simulate	{{ cookiecutter.name }}/lib/Day13.hs	216;"	f
+sleepyMinutes	myHaskellProject/lib/Day4.hs	97;"	f
+sleepyMinutes	{{ cookiecutter.name }}/lib/Day4.hs	97;"	f
+smin	myHaskellProject/lib/Day4.hs	92;"	f
+smin	{{ cookiecutter.name }}/lib/Day4.hs	92;"	f
+sol1	myHaskellProject/lib/Day10.hs	153;"	f
+sol1	myHaskellProject/lib/Day12.hs	178;"	f
+sol1	myHaskellProject/lib/Day13.hs	244;"	f
+sol1	myHaskellProject/lib/Day16.hs	257;"	f
+sol1	myHaskellProject/lib/Day7.hs	123;"	f
+sol1	{{ cookiecutter.name }}/lib/Day10.hs	153;"	f
+sol1	{{ cookiecutter.name }}/lib/Day12.hs	178;"	f
+sol1	{{ cookiecutter.name }}/lib/Day13.hs	244;"	f
+sol1	{{ cookiecutter.name }}/lib/Day16.hs	257;"	f
+sol1	{{ cookiecutter.name }}/lib/Day7.hs	123;"	f
+sol2	myHaskellProject/lib/Day10.hs	155;"	f
+sol2	myHaskellProject/lib/Day12.hs	179;"	f
+sol2	myHaskellProject/lib/Day16.hs	259;"	f
+sol2	myHaskellProject/lib/Day7.hs	125;"	f
+sol2	{{ cookiecutter.name }}/lib/Day10.hs	155;"	f
+sol2	{{ cookiecutter.name }}/lib/Day12.hs	179;"	f
+sol2	{{ cookiecutter.name }}/lib/Day16.hs	259;"	f
+sol2	{{ cookiecutter.name }}/lib/Day7.hs	125;"	f
+solution	myHaskellProject/lib/Day1.hs	22;"	f
+solution	myHaskellProject/lib/Day10.hs	149;"	f
+solution	myHaskellProject/lib/Day11.hs	72;"	f
+solution	myHaskellProject/lib/Day12.hs	174;"	f
+solution	myHaskellProject/lib/Day13.hs	249;"	f
+solution	myHaskellProject/lib/Day16.hs	210;"	f
+solution	myHaskellProject/lib/Day2.hs	37;"	f
+solution	myHaskellProject/lib/Day3.hs	68;"	f
+solution	myHaskellProject/lib/Day4.hs	115;"	f
+solution	myHaskellProject/lib/Day5.hs	32;"	f
+solution	myHaskellProject/lib/Day6.hs	128;"	f
+solution	myHaskellProject/lib/Day7.hs	117;"	f
+solution	myHaskellProject/lib/Day8.hs	62;"	f
+solution	{{ cookiecutter.name }}/lib/Day1.hs	22;"	f
+solution	{{ cookiecutter.name }}/lib/Day10.hs	149;"	f
+solution	{{ cookiecutter.name }}/lib/Day11.hs	72;"	f
+solution	{{ cookiecutter.name }}/lib/Day12.hs	174;"	f
+solution	{{ cookiecutter.name }}/lib/Day13.hs	249;"	f
+solution	{{ cookiecutter.name }}/lib/Day16.hs	210;"	f
+solution	{{ cookiecutter.name }}/lib/Day2.hs	37;"	f
+solution	{{ cookiecutter.name }}/lib/Day3.hs	68;"	f
+solution	{{ cookiecutter.name }}/lib/Day4.hs	115;"	f
+solution	{{ cookiecutter.name }}/lib/Day5.hs	32;"	f
+solution	{{ cookiecutter.name }}/lib/Day6.hs	128;"	f
+solution	{{ cookiecutter.name }}/lib/Day7.hs	117;"	f
+solution	{{ cookiecutter.name }}/lib/Day8.hs	62;"	f
+solution1	myHaskellProject/lib/Day11.hs	51;"	f
+solution1	myHaskellProject/lib/Day12.hs	171;"	f
+solution1	{{ cookiecutter.name }}/lib/Day11.hs	51;"	f
+solution1	{{ cookiecutter.name }}/lib/Day12.hs	171;"	f
+solution1Parallel	myHaskellProject/lib/Day11.hs	56;"	f
+solution1Parallel	{{ cookiecutter.name }}/lib/Day11.hs	56;"	f
+solution2	myHaskellProject/lib/Day12.hs	181;"	f
+solution2	{{ cookiecutter.name }}/lib/Day12.hs	181;"	f
+solve1	myHaskellProject/lib/Day10.hs	145;"	f
+solve1	{{ cookiecutter.name }}/lib/Day10.hs	145;"	f
+solve2	myHaskellProject/lib/Day10.hs	147;"	f
+solve2	{{ cookiecutter.name }}/lib/Day10.hs	147;"	f
+splitByGuards	myHaskellProject/lib/Day4.hs	82;"	f
+splitByGuards	{{ cookiecutter.name }}/lib/Day4.hs	82;"	f
+state2	myHaskellProject/lib/Day16.hs	78;"	f
+state2	{{ cookiecutter.name }}/lib/Day16.hs	78;"	f
+step	myHaskellProject/lib/Day13.hs	168;"	f
+step	{{ cookiecutter.name }}/lib/Day13.hs	168;"	f
+strictMinimum	myHaskellProject/lib/Day6.hs	51;"	f
+strictMinimum	{{ cookiecutter.name }}/lib/Day6.hs	51;"	f
+sumDistance	myHaskellProject/lib/Day6.hs	124;"	f
+sumDistance	{{ cookiecutter.name }}/lib/Day6.hs	124;"	f
+sumMeta	myHaskellProject/lib/Day8.hs	41;"	f
+sumMeta	{{ cookiecutter.name }}/lib/Day8.hs	41;"	f
+tally	myHaskellProject/lib/Day4.hs	75;"	f
+tally	{{ cookiecutter.name }}/lib/Day4.hs	75;"	f
+tallyMinutesByGuard	myHaskellProject/lib/Day4.hs	105;"	f
+tallyMinutesByGuard	{{ cookiecutter.name }}/lib/Day4.hs	105;"	f
+timeParser	myHaskellProject/lib/Day4.hs	36;"	f
+timeParser	{{ cookiecutter.name }}/lib/Day4.hs	36;"	f
+touches	myHaskellProject/lib/Day6.hs	78;"	f
+touches	{{ cookiecutter.name }}/lib/Day6.hs	78;"	f
+trim	myHaskellProject/lib/Day12.hs	34;"	f
+trim	{{ cookiecutter.name }}/lib/Day12.hs	34;"	f
+turnDir	myHaskellProject/lib/Day13.hs	113;"	f
+turnDir	{{ cookiecutter.name }}/lib/Day13.hs	113;"	f
+unPos	myHaskellProject/lib/Day10.hs	57;"	f
+unPos	{{ cookiecutter.name }}/lib/Day10.hs	57;"	f
+unVel	myHaskellProject/lib/Day10.hs	60;"	f
+unVel	{{ cookiecutter.name }}/lib/Day10.hs	60;"	f
+uniqueHead	myHaskellProject/lib/Day6.hs	44;"	f
+uniqueHead	{{ cookiecutter.name }}/lib/Day6.hs	44;"	f
+unitEqual	myHaskellProject/lib/Day5.hs	25;"	f
+unitEqual	{{ cookiecutter.name }}/lib/Day5.hs	25;"	f
+untilCrash	myHaskellProject/lib/Day13.hs	222;"	f
+untilCrash	{{ cookiecutter.name }}/lib/Day13.hs	222;"	f
+upperLefts	myHaskellProject/lib/Day11.hs	30;"	f
+upperLefts	{{ cookiecutter.name }}/lib/Day11.hs	30;"	f
+valueCounts	myHaskellProject/lib/Day2.hs	17;"	f
+valueCounts	{{ cookiecutter.name }}/lib/Day2.hs	17;"	f
+width	myHaskellProject/lib/Day10.hs	100;"	f
+width	{{ cookiecutter.name }}/lib/Day10.hs	100;"	f
+withEvents	myHaskellProject/lib/Day4.hs	66;"	f
+withEvents	{{ cookiecutter.name }}/lib/Day4.hs	66;"	f
+withPatches	myHaskellProject/lib/Day3.hs	44;"	f
+withPatches	{{ cookiecutter.name }}/lib/Day3.hs	44;"	f
+work	myHaskellProject/lib/Day7.hs	96;"	f
+work	{{ cookiecutter.name }}/lib/Day7.hs	96;"	f
+x	myHaskellProject/lib/Day12.hs	43;"	f
+x	myHaskellProject/lib/Day16.hs	269;"	f
+x	{{ cookiecutter.name }}/lib/Day12.hs	43;"	f
+x	{{ cookiecutter.name }}/lib/Day16.hs	269;"	f
+x1	myHaskellProject/lib/Day11.hs	67;"	f
+x1	{{ cookiecutter.name }}/lib/Day11.hs	67;"	f
+xx	myHaskellProject/lib/Day16.hs	274;"	f
+xx	{{ cookiecutter.name }}/lib/Day16.hs	274;"	f
+y	myHaskellProject/lib/Day12.hs	72;"	f
+y	{{ cookiecutter.name }}/lib/Day12.hs	72;"	f

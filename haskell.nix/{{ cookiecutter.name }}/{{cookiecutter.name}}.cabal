@@ -1,0 +1,61 @@
+cabal-version: 1.12
+
+name:           {{cookiecutter.name}}
+version:        0.1.0.0
+build-type:     Simple
+
+library
+  exposed-modules:
+      Lib
+  other-modules:
+      Paths_{{cookiecutter.name}}
+  hs-source-dirs:
+      lib/
+  default-extensions: OverloadedStrings
+  ghc-options: -W -O2
+  build-depends:
+      array
+    , base
+    , bytestring
+    , case-insensitive
+    , aeson
+    , containers
+    , data-default
+    , directory
+    , extra
+    , filepath
+    , lens
+    , megaparsec
+    , mtl
+    , optparse-applicative
+    , parser-combinators
+    , process
+    , random
+    , split
+    , text
+    , time
+    , vector
+    , yaml
+    , raw-strings-qq
+    , optics
+    , parallel
+  default-language: Haskell2010
+
+executable {{cookiecutter.name}}
+  main-is: {{cookiecutter.name}}.hs
+  other-modules:
+      Paths_{{cookiecutter.name}}
+  hs-source-dirs:
+      execs
+  default-extensions: OverloadedStrings
+  ghc-options: -W -O2
+  build-depends:
+      {{cookiecutter.name}}
+    , base
+    , filepath
+    , optparse-applicative
+    , text
+  if os(darwin)
+    extra-libraries:
+        iconv
+  default-language: Haskell2010
