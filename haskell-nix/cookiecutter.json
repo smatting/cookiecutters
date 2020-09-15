@@ -1,0 +1,8 @@
+{
+    "project_name": "my_haskell_project",
+    "module_root": "MyHaskellProject",
+    "repo_name": "{{ cookiecutter.project_name }}",
+    "email": "stefan.matting@gmail.com",
+    "author": "Stefan Matting",
+    "synposis": "TODO synposis"
+}

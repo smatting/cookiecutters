@@ -1,0 +1,47 @@
+cabal-version:       >=1.10
+
+name:                {{cookiecutter.project_name}}
+version:             0.1.0.0
+synopsis:            {{cookiecutter.synposis}}
+license-file:        LICENSE
+author:              {{cookiecutter.author}}
+maintainer:          {{cookiecutter.email}}
+build-type:          Simple
+extra-source-files:  CHANGELOG.md
+
+executable {{cookiecutter.project_name}}
+  main-is:             src/Main.hs
+  build-depends:
+        base
+      , {{cookiecutter.project_name}}
+  default-language:    Haskell2010
+
+  other-modules:
+     Paths_{{cookiecutter.project_name}}
+
+library
+  hs-source-dirs:
+    src/
+
+  exposed-modules:
+    {{cookiecutter.module_root}}.Lib
+
+  other-modules:
+    Paths_{{cookiecutter.project_name}}
+
+  build-depends:
+      base
+    , parser-combinators
+    , text
+    , containers
+    , blaze-html
+    , directory
+    , bytestring
+    , extra
+    , aeson
+    , mtl
+    , filepath
+    , easy-file
+    , optparse-applicative
+
+  default-language:    Haskell2010
