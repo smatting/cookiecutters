@@ -1,7 +1,7 @@
 let
   packageName = "{{cookiecutter.project_name}}";
 
-  compiler = "ghc865";
+  compiler = "ghc884";
   src = import ./nix/sources.nix;
   pkgs = import src.nixpkgs {};
 

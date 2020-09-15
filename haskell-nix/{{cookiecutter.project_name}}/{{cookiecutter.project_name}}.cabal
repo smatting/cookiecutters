@@ -31,17 +31,16 @@ library
 
   build-depends:
       base
-    , parser-combinators
     , text
     , containers
-    , blaze-html
+    , filepath
     , directory
     , bytestring
     , extra
     , aeson
     , mtl
-    , filepath
     , easy-file
+    , parser-combinators
     , optparse-applicative
 
   default-language:    Haskell2010

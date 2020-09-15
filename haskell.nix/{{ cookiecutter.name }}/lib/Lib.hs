@@ -1,3 +1,3 @@
 module Lib where
 
-haskell = "awesome"
+main = putStrLn "hello world"
