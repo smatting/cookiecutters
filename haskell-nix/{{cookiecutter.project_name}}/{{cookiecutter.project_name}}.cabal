@@ -9,6 +9,21 @@ maintainer:          {{cookiecutter.email}}
 build-type:          Simple
 extra-source-files:  CHANGELOG.md
 
+default-extensions:
+   BangPatterns
+   DeriveFunctor
+   DeriveGeneric
+   GeneralizedNewtypeDeriving
+   LambdaCase
+   NamedFieldPuns
+   OverloadedStrings
+   RecordWildCards
+   ScopedTypeVariables
+   StandaloneDeriving
+   TupleSections
+   TypeApplications
+   ViewPatterns
+
 executable {{cookiecutter.project_name}}
   main-is:             src/Main.hs
   build-depends:
