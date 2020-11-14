@@ -29,6 +29,7 @@ in {
 
   shell = haskellPackages.shellFor {
     packages = ps: [ ps."${packageName}" ];
+    withHoogle = true; # optional
     buildInputs = [
       haskellPackages.cabal-install
       haskellPackages.ghcid
